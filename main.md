@@ -1,8 +1,15 @@
+<!--.slide: data-background-image="./Pictures/15.jpg" class="text-bg-clr"-->
 # On The Moral Peril Of Exchange
 ## Jonathan Parry
 ## (1989)
 _in_: Parry, Jonathan and Bloch, Maurice, (eds.) Money and the Morality of Exchange. Cambridge University Press, Cambridge, UK, pp. 64-93.
-
+---
+<!--.slide: data-background-image="./Pictures/14.jpg" class="text-bg-clr"-->
+## The basic opposition
+--
+<!--.slide: data-background-image="./Pictures/14.jpg" class="text-bg-clr"-->
+## The Gift as the opposite of commodity exchange
+Christopher A. Gregory **Gifts and Commodities** (1982) 
 ---
 <!--.slide: data-background-image="./Pictures/14.jpg" class="blur"-->
 <img data-src="./Pictures/1.bmp#cnt2" width="80%">
@@ -42,11 +49,13 @@ _in_: Parry, Jonathan and Bloch, Maurice, (eds.) Money and the Morality of Excha
 --
 <!--.slide: data-background-image="./Pictures/15.jpg" class="blur"-->
 ![avaro](Pictures/15.jpg#cnt)
---
 
 ---
-Avaro - (Greedy?) 
-Detail from the fresco **Last Judgement**, by Taddeo di Bartolo.
-Collegiate Church of San Gimignano, Siena, Italy
-First quarter of the 15th century or 1394 (?)
-![avaro](Pictures/16.jpg#cnt)
+<!--.slide: data-background-image="./Pictures/16.jpg" class="blur"-->
+<img data-src="./Pictures/16.JPG#cnt2" width="50%">
+
+<div class="txt-overlay fragment "><span class="txt-overlay">
+Avaro - Greed(y?) <br> 
+Detail from the fresco <i>Last Judgement</i>, by Taddeo di Bartolo.
+Collegiate Church of San Gimignano, Siena, Italy, 1394
+</span></div>
