@@ -61,6 +61,10 @@ Collegiate Church of San Gimignano, Siena, Italy, 1394
 </span></div>
 
 --
+<!--.slide: data-background-image="./Pictures/merchant.png" class="text-bg-bw"-->
+![](Pictures/merchant.png#cnt2)
+---
+
 <!--.slide: data-background-image="./Pictures/kaliYuga.png" class="blur"-->
 
 ![](Pictures/kaliYuga.png)
