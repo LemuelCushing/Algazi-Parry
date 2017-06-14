@@ -60,6 +60,14 @@ Detail from the fresco <i>Last Judgement</i>, by Taddeo di Bartolo.
 Collegiate Church of San Gimignano, Siena, Italy, 1394
 </span></div>
 
+--
+<!--.slide: data-background-image="./Pictures/kaliYuga.png" class="blur"-->
+
+![](Pictures/kaliYuga.png)
+
+<blockquote>
+Kali Yuga
+</blockquote>
 ---
 <!--.slide: data-background-image="./Pictures/jDay.png" class="blur"-->
 <blockquote>
@@ -69,3 +77,4 @@ conturbat domum suam qui sectatur avaritiam qui autem odit munera vivet <br> Pro
 <br>
 משלי טו כז
 </blockquote>
+
