@@ -52,7 +52,7 @@ Christopher A. Gregory **Gifts and Commodities** (1982)
 
 ---
 <!--.slide: data-background-image="./Pictures/16.jpg" class="blur"-->
-<img data-src="./Pictures/16.jpg#cnt2" width="50%">
+<img data-src="./Pictures/16.JPG#cnt2" width="50%">
 
 <div class="txt-overlay fragment "><span class="txt-overlay">
 Avaro - Greed(y?) <br> 
